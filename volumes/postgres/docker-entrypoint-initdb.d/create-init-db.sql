@@ -1,0 +1,2 @@
+CREATE USER usrrbac WITH CREATEDB PASSWORD 'changeme#101';
+CREATE DATABASE starganrbac OWNER usrrbac;

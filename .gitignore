@@ -1,0 +1,6 @@
+*.local
+.env
+DS_STORE
+.key
+*.key
+postgres-data
